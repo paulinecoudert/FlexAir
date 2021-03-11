@@ -157,10 +157,12 @@
     <Content Include="img\gallery-img-05.jpg" />
     <Content Include="img\gallery-img-06-tn.jpg" />
     <Content Include="img\gallery-img-06.jpg" />
+    <Content Include="img\badge.png" />
+    <Content Include="img\m.jpg" />
     <Content Include="img\page1.png" />
     <Content Include="img\page2.png" />
     <Content Include="img\Page3.png" />
-    <Content Include="img\Page4.png" />
+    <Content Include="img\profil.png" />
     <Content Include="img\header.png" />
     <Content Include="img\nav-item-highlight.png" />
     <Content Include="img\nav-item.png" />

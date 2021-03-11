@@ -311,8 +311,10 @@ address { font-size: 1rem; }
 footer a { color: white; }
 
 @media (max-width: 1800px) {
+
   .tm-section { margin-right: auto; }
 }
+
 
 @media (max-width: 1724px) {
   .tm-nav-fa-icon { margin-right: 25px; }
@@ -359,16 +361,38 @@ footer a { color: white; }
     */
 
     .hd {
-        width:40vh;
-        margin-left: 13vh;
+        width:300px;
+        margin-left: 70px;
     }
 
 
     .pg1{
-        //margin-left: -10vh;
-        width: 40vh;
+   
+        width: 300px;
     }
-    .tm-main-row { position: relative; }
+
+    .pg0 {
+        width: 300px;
+    }
+
+    .pg2 {
+        
+        width: 300px;
+    }
+    .pg3 {
+        width: 300px;
+    }
+
+    .pg4 {
+        width: 300px;
+    }
+
+    #flute{
+        color: black;
+    }
+    .tm-main-row {
+        position: relative;
+    }
 
     #tmMainNavToggle { 
         display: block;
@@ -379,7 +403,7 @@ footer a { color: white; }
     
     .menu-icon {
         padding: 10px 15px;
-        background: #000000c4;
+        background:white;
         border: 1px solid;
         color: #FF9480;
         cursor: pointer;
